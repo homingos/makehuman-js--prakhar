@@ -26,7 +26,7 @@
     "test_windows": ".\\node_modules\\.bin\\webpack-dev-server --config webpack.test.config.js --open"
   },
   "dependencies": {
-    "d3-random": "^0.2.1",
+    "d3-random": "^0.3.0",
     "lodash": "^4.5.1",
     "qs": "^6.3.0",
     "three": "^0.82.1",
